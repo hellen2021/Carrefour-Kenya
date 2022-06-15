@@ -45,7 +45,7 @@ Datasets:
 3.[Link](http://bit.ly/CarreFourSalesDataset)   
               
 #### RPubs
-1. Part 1(Dimensionality reduction and feature selection) [link](https://rpubs.com/Hellen24/914748)
+1. Part 1(Dimensionality reduction and feature selection) [link](https://rpubs.com/Hellen24/914937)
 
 2. Part 2(Association rules and Anomaly detection)[link](https://rpubs.com/Hellen24/914742)
 
